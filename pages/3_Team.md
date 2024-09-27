@@ -32,4 +32,4 @@ are extreme value analysis, dependence modelling, optimal transport, and Monte C
 
 # Researchers
 
-We are [hiring](./4_Positions.md)!
+To be announced in 2025: a [post-doctoral position](./4_Positions.md)!
