@@ -24,7 +24,7 @@ climate problems.
 [**François Massonnet**](https://www.climate.be/u/fmasson) is F.R.S.-FNRS Research Associate and part-time lecturer the *Earth and Climate Centre* of the UCLouvain. His research interests focus on seasonal to interannual predictability and prediction of sea ice, the evaluation of climate models in polar regions, data assimilation and forecast verification.
 
 
-<img src="/assets/img/pics/JohanSegers.png" height = "200px">
+<img src="/assets/img/pics/JohanSegers.jpg" height = "200px">
 
 [**Johan Segers**](https://perso.uclouvain.be/johan.segers/index.html) is professor at the *Institut de statistique, biostatistique et sciences actuarielles* of the Université catholique de Louvain (UCLouvain). His research is anchored in mathematical statistics and applied probability. His main research themes
 are extreme value analysis, dependence modelling, optimal transport, and Monte Carlo integration.
