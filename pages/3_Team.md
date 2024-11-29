@@ -39,7 +39,7 @@ tags: [Page]
 # Researchers
 
 <div style="text-align: left; margin-bottom: 20px;">
-    <img src="/assets/img/pics/kamal.jpg" height="200px" alt="Kamal Gasser" style="display: block; margin-bottom: 10px;">
+    <img src="/assets/img/pics/Kamal.jpg" height="200px" alt="Kamal Gasser" style="display: block; margin-bottom: 10px;">
     <p align="justify" style="margin-top: 0;">
         <a href="https://kamalgasser.github.io/" target="_blank"><strong>Kamal Gasser</strong></a> is a PhD student in Statistics at the Université catholique de Louvain. His research focuses on Work Package 2, exploring compound event attribution and spatial extremes. By developing advanced statistical methodologies, his work aims to deepen the understanding of complex climate phenomena and their far-reaching impacts.
     </p>
