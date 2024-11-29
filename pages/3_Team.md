@@ -7,7 +7,7 @@ tags: [Page]
 ---
 <style>
     .team-photo {
-        width: 600px; /* Set a fixed width */
+        width: 400px; /* Set a fixed width */
         height: auto; /* Maintain aspect ratio */
         display: block;
         margin-bottom: 10px;
