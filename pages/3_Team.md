@@ -8,11 +8,12 @@ tags: [Page]
 
 # Principal investigators
 
-<img src="/assets/img/pics/AnnaKiriliouk.jpg" height = "200px">
-<p align="justify">
-[**Anna Kiriliouk**](http://annakiriliouk.weebly.com/) (coordinator) ​is an assistant professor in Statistics at the *Department of Mathematics* and the *Economics, Management, Communication and Politics faculty* of the University
-of Namur (UNamur). Her main research field is extreme value theory, with a focus on environmental applications, the development of statistical methodology for multivariate extremes, high-dimensional modelling, and spatial extremes. Recently, she has been particularly interested in topics related to the climate sciences, such as climate extreme event attribution and compound extremes.
-</p>
+<div>
+    <img src="/assets/img/pics/AnnaKiriliouk.jpg" height="200px" alt="Anna Kiriliouk">
+    <p align="justify">
+        <a href="http://annakiriliouk.weebly.com/" target="_blank"><strong>Anna Kiriliouk</strong></a> (coordinator) is an assistant professor in Statistics at the <em>Department of Mathematics</em> and the <em>Economics, Management, Communication and Politics faculty</em> of the University of Namur (UNamur). Her main research field is extreme value theory, with a focus on environmental applications, the development of statistical methodology for multivariate extremes, high-dimensional modelling, and spatial extremes. Recently, she has been particularly interested in topics related to the climate sciences, such as climate extreme event attribution and compound extremes.
+    </p>
+</div>
 <img src="/assets/img/pics/FrancescoRagone_new.png" height = "200px">
 <p align="justify">
 [**Francesco Ragone**](https://uclouvain.be/en/directories/francesco.ragone) (coordinator UCLouvain) is assistant professor at the *Earth and Climate Centre* of the Université catholique de Louvain (UCLouvain) and  senior researcher at the Royal Meteorological Institute (RMI) of Belgium. My research interests focus on
