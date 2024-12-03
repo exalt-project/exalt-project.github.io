@@ -60,6 +60,12 @@ tags: [Page]
     </p>
 </div>
 
+<div style="text-align: left; margin-bottom: 20px;">
+    <img src="/assets/img/pics/Alexandre.jpg" alt="Alexandre Tytgat" class="team-photo">
+    <p align="justify" style="margin-top: 0;">
+        <strong>Alexandre Tytgat</strong></a> is aa PhD student at Université Catholique de Louvain under the supervision of François Massonnet and Anna Kiriliouk. My research focuses on improving our understanding of unprecedented sea ice extent lows in the Antarctic region by providing robust estimates of their probabilities and quantifying the contributions of key drivers. I am particularly interested in the regional dynamics of sea ice within the various Antarctic basins and the role of specific drivers in these extremes, as well as the implications for current and future climate conditions. To this end, I aim to develop novel non-stationary multivariate models and attribution techniques tailored to Antarctic sea ice extent extremes.
+    </p>
+</div>
 
 
 
