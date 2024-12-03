@@ -49,7 +49,7 @@ tags: [Page]
 <div style="text-align: left; margin-bottom: 20px;">
     <img src="/assets/img/pics/Robert_Paulus.jpg" alt="Robert Paulus" class="team-photo">
     <p align="justify" style="margin-top: 0;">
-        <a href="https://github.com/RPGSynth" target="_blank"><strong>Tobert Paulus</strong></a> is a PhD student in Statistics at the Université of Namur. His research focuses on Work Package 1, exploring attribution of European floods.
+        <a href="https://github.com/RPGSynth" target="_blank"><strong>Robert Paulus</strong></a> is a PhD student in Statistics at the Université of Namur. His research focuses on Work Package 1, exploring attribution of European floods.
     </p>
 </div>
 
