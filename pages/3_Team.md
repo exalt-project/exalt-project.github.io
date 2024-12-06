@@ -47,7 +47,7 @@ tags: [Page]
 <div style="text-align: left; margin-bottom: 20px;">
     <img src="/assets/img/pics/HuguesGoosse.jpg" alt="Hugues Goosse" class="team-photo">
     <p align="justify" style="margin-top: 0;">
-        <a href="https://www.elic.ucl.ac.be/modx/index.php?id=78" target="_blank"><strong>Huges Goosse</strong></a> is research director with the Fonds National de la Recherche Scientifique (F.R.S.-FNRS-Belgium) and professor at the Université de Louvain in Belgium where he teaches climate related topics. His research is devoted to the development of climate models, model-data comparison and the application of models to study past, current and future climate change, analyzing both natural variability and the response to human-induced perturbations. His recent work is focused on sea-ice-ocean-atmosphere interactions in the Southern Ocean, decadal to centennial climate variations over the past millennium and data assimilation using ensemble methods in climate models.
+        <a href="https://www.elic.ucl.ac.be/modx/index.php?id=78" target="_blank"><strong>Hugues Goosse</strong></a> is research director with the Fonds National de la Recherche Scientifique (F.R.S.-FNRS-Belgium) and professor at the Université de Louvain in Belgium where he teaches climate related topics. His research is devoted to the development of climate models, model-data comparison and the application of models to study past, current and future climate change, analyzing both natural variability and the response to human-induced perturbations. His recent work is focused on sea-ice-ocean-atmosphere interactions in the Southern Ocean, decadal to centennial climate variations over the past millennium and data assimilation using ensemble methods in climate models.
     </p>
 </div>
 
