@@ -61,6 +61,13 @@ tags: [Page]
 </div>
 
 <div style="text-align: left; margin-bottom: 20px;">
+    <img src="/assets/img/pics/Paolo.png" alt="Paolo Besana" class="team-photo">
+    <p align="justify" style="margin-top: 0;">
+        <a href="#" target="_blank"><strong>Paolo Besana </strong></a> is a PhD student at the Université Catholique de Louvain, conducting research under the supervision of Hugues Goosse and Francesco Ragone. His main research focuses on extreme value theory applied to climate science. Currently, his work centres on the attribution of European droughts, exploring the interaction between natural variability and human-induced climate change.
+    </p>
+</div>
+
+<div style="text-align: left; margin-bottom: 20px;">
     <img src="/assets/img/pics/Kamal.jpg" alt="Kamal Gasser" class="team-photo">
     <p align="justify" style="margin-top: 0;">
         <a href="https://kamalgasser.github.io/" target="_blank"><strong>Kamal Gasser</strong></a> is a PhD student in Statistics at Université Catholique de Louvain under the supervision of Johan Sergers and Francesco Ragone. His research focuses on Work Package 2, exploring compound event attribution and spatial extremes. By developing advanced statistical methodologies, his work aims to deepen the understanding of complex climate phenomena and their far-reaching impacts.
