@@ -78,41 +78,16 @@ tags: [Page]
 
 <div class="news-item">
     <a href="/news/news1.html">
-        <img src="/assets/img/news/news1.jpg" alt="News Image 1" class="news-image">
+        <img src="/assets/img/news/ValPred.jpg" alt="News Image 1" class="news-image">
     </a>
     <div class="news-content">
-        <a href="/news/news1.html" class="news-title">Exciting Discovery in Climate Research</a>
-        <div class="news-date">December 20, 2024</div>
+        <a href="/news/news1.html" class="news-title">VALPRED Workshop in Aussois</a>
+        <div class="news-date">December 16, 2024</div>
         <div class="news-description">
             Our team has made a breakthrough in understanding climate variability. Click to read more about the implications for future studies.
         </div>
     </div>
 </div>
 
-<div class="news-item">
-    <a href="/news/news2.html">
-        <img src="/assets/img/news/news2.jpg" alt="News Image 2" class="news-image">
-    </a>
-    <div class="news-content">
-        <a href="/news/news2.html" class="news-title">Workshop on Extreme Value Analysis</a>
-        <div class="news-date">November 15, 2024</div>
-        <div class="news-description">
-            We hosted a successful workshop on extreme value analysis with renowned speakers. Click to read the details.
-        </div>
-    </div>
-</div>
-
-<div class="news-item">
-    <a href="/news/news3.html">
-        <img src="/assets/img/news/news3.jpg" alt="News Image 3" class="news-image">
-    </a>
-    <div class="news-content">
-        <a href="/news/news3.html" class="news-title">Collaboration with Local Universities</a>
-        <div class="news-date">October 10, 2024</div>
-        <div class="news-description">
-            Partnering with local institutions, we aim to foster innovation in climate science. Click to read more.
-        </div>
-    </div>
-</div>
 
 </div>
