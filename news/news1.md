@@ -2,6 +2,8 @@
 layout: page
 title: Participation in the VALPRED Workshop
 feature-img: "assets/img/news/ValPred2.jpg"
+permalink: /news/news1.html
+exclude: true
 ---
 
 # Participation in the VALPRED Workshop
