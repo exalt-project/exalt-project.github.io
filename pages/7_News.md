@@ -84,7 +84,7 @@ tags: [Page]
         <a href="/news/news1.html" class="news-title">VALPRED Workshop in Aussois</a>
         <div class="news-date">December 16, 2024</div>
         <div class="news-description">
-            Our team has made a breakthrough in understanding climate variability. Click to read more about the implications for future studies.
+            Professor Segers and a PhD student attended the VALPRED workshop in Aussois, focused on forecasting validation and related topics. Click to read more.
         </div>
     </div>
 </div>
