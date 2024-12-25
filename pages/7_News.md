@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News
-feature-img: "assets/img/pexels/news.jpg"
+feature-img: "assets/img/pexels/news.jpeg"
 position: 4
 tags: [Page]
 ---
