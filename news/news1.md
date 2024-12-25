@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Participation in the VALPRED Workshop
-feature-img: "assets/img/news/ValPred.jpg"
+feature-img: "assets/img/news/ValPred2.jpg"
 ---
 
 # Participation in the VALPRED Workshop
