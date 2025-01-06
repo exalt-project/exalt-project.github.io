@@ -78,7 +78,7 @@ tags: [Page]
     
 <div class="news-item">
     <a href="/news/news2.html">
-        <img src="/assets/img/news/Robert_Paulus_award.jpeg" alt="Robert Paulus receiving award" class="news-image">
+        <img src="/assets/img/news/Robert_Paulus_award.png" alt="Robert Paulus receiving award" class="news-image">
     </a>
     <div class="news-content">
         <a href="/news/news2.html" class="news-title">Robert Paulus Wins GeoSpatial Award 2024</a>
