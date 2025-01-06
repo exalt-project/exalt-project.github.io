@@ -35,3 +35,9 @@ PhD student Alexandre Tytgat presented a poster titled **"Antarctic Sea Ice: Rec
 > Our results suggest that the trend in SIE yearly minima is best captured by a piecewise linear model for the mean, and an increasing scale parameter over time, and that the recent record lows, though unprecedented, were not highly improbable given recent trends. The regional analysis indicates that the Ross Sea, Weddell Sea, and Western Pacific Ocean basins are the primary contributors to the recent decline in total SIE.
 
 ---
+---
+
+![Alexandre Tytgat presenting his poster at the VALPRED workshop](/assets/img/news/poster_alex_valpred.png)
+
+*Alexandre Tytgat presenting his poster titled "Antarctic Sea Ice: Recent Variability and Trends" at the VALPRED workshop in Aussois, France.*
+
