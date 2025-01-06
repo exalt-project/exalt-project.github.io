@@ -110,7 +110,7 @@ tags: [Page]
         <a href="/assets/pdfs/Omalius décembre 2024-7.pdf" target="_blank" class="news-title">Anna Kiriliouk’s Research Featured in Omalius Magazine</a>
         <div class="news-date">December 20, 2024</div>
         <div class="news-description">
-            Anna Kiriliouk’s research and the EXALT project have been featured in Omalius, the magazine of the University of Namur. <a href="/assets/pdf/Omalius décembre 2024-7.pdf" target="_blank">Click here to read the article</a>.
+            Anna Kiriliouk’s research and the EXALT project have been featured in Omalius, the magazine of the University of Namur.
         </div>
     </div>
 </div>
