@@ -104,7 +104,7 @@ tags: [Page]
 
 <div class="news-item">
     <a href="/assets/pdf/Omalius_décembre_2024-7.pdf" target="_blank">
-        <img src="/assets/img/news/Omalius_magazine.jpg" alt="Omalius Magazine featuring EXALT project" class="news-image">
+        <img src="/assets/img/news/omalius_decembre_2024.png" alt="Omalius Magazine featuring EXALT project" class="news-image">
     </a>
     <div class="news-content">
         <a href="/assets/pdfs/Omalius_décembre_2024-7.pdf" target="_blank" class="news-title">Anna Kiriliouk’s Research Featured in Omalius Magazine</a>
