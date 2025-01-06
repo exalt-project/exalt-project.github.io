@@ -82,7 +82,7 @@ tags: [Page]
     </a>
     <div class="news-content">
         <a href="/news/news2.html" class="news-title">Robert Paulus Wins GeoSpatial Award 2024</a>
-        <div class="news-date">December 16, 2024</div>
+        <div class="news-date">December 12, 2024</div>
         <div class="news-description">
             Robert Paulus received the prestigious GeoSpatial Award 2024 for his master thesis on spatio-temporal modeling and crisis sensibility analysis using social media data. Click to read more.
         </div>
@@ -108,7 +108,7 @@ tags: [Page]
     </a>
     <div class="news-content">
         <a href="/assets/pdfs/Omalius décembre 2024-7.pdf" target="_blank" class="news-title">Anna Kiriliouk’s Research Featured in Omalius Magazine</a>
-        <div class="news-date">December 20, 2024</div>
+        <div class="news-date">December 2024</div>
         <div class="news-description">
             Anna Kiriliouk’s research and the EXALT project have been featured in Omalius, the magazine of the University of Namur.
         </div>
