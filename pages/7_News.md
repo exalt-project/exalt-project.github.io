@@ -102,5 +102,18 @@ tags: [Page]
     </div>
 </div>
 
+<div class="news-item">
+    <a href="/news/news3.html">
+        <img src="/assets/img/news/omalius_decembre_2024.png" alt="Omalius Magazine featuring EXALT project" class="news-image">
+    </a>
+    <div class="news-content">
+        <a href="/news/news3.html" class="news-title">Anna Kiriliouk’s Research Featured in Omalius Magazine</a>
+        <div class="news-date">December 2024</div>
+        <div class="news-description">
+            Anna Kiriliouk’s research and the EXALT project have been featured in Omalius, the magazine of the University of Namur. Click to see the full interview and article.
+        </div>
+    </div>
+</div>
+
 
 </div>
