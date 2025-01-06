@@ -89,7 +89,6 @@ tags: [Page]
     </div>
 </div>
 
-
 <div class="news-item">
     <a href="/news/news1.html">
         <img src="/assets/img/news/ValPred.jpg" alt="News Image 1" class="news-image">
