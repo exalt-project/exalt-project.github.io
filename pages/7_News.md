@@ -107,10 +107,10 @@ tags: [Page]
         <img src="/assets/img/news/omalius_decembre_2024.png" alt="Omalius Magazine featuring EXALT project" class="news-image">
     </a>
     <div class="news-content">
-        <a href="/assets/pdfs/Omalius_décembre_2024-7.pdf" target="_blank" class="news-title">Anna Kiriliouk’s Research Featured in Omalius Magazine</a>
+        <a href="/assets/pdfs/Omalius décembre 2024-7.pdf" target="_blank" class="news-title">Anna Kiriliouk’s Research Featured in Omalius Magazine</a>
         <div class="news-date">December 20, 2024</div>
         <div class="news-description">
-            Anna Kiriliouk’s research and the EXALT project have been featured in Omalius, the magazine of the University of Namur. <a href="/assets/pdf/Omalius_décembre_2024-7.pdf" target="_blank">Click here to read the article</a>.
+            Anna Kiriliouk’s research and the EXALT project have been featured in Omalius, the magazine of the University of Namur. <a href="/assets/pdf/Omalius décembre 2024-7.pdf" target="_blank">Click here to read the article</a>.
         </div>
     </div>
 </div>
