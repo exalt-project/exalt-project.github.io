@@ -75,6 +75,20 @@ tags: [Page]
 # News
 
 <div class="news-container">
+    
+<div class="news-item">
+    <a href="/news/news2.html">
+        <img src="/assets/img/news/Robert_Paulus_award.jpeg" alt="Robert Paulus receiving award" class="news-image">
+    </a>
+    <div class="news-content">
+        <a href="/news/news2.html" class="news-title">Robert Paulus Wins GeoSpatial Award 2024</a>
+        <div class="news-date">December 16, 2024</div>
+        <div class="news-description">
+            Robert Paulus received the prestigious GeoSpatial Award 2024 for his master thesis on spatio-temporal modeling and crisis sensibility analysis using social media data. Click to read more.
+        </div>
+    </div>
+</div>
+
 
 <div class="news-item">
     <a href="/news/news1.html">
