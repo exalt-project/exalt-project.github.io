@@ -12,7 +12,7 @@ On December 16, 2024, Robert Paulus, a PhD student in our team, was honored with
 
 **"Spatio-temporal modeling and crisis sensibility analysis using social media data"**
 
-![Robert Paulus receiving the award](/assets/img/news/Robert_Paulus_award.jpeg)
+![Robert Paulus receiving the award](/assets/img/news/Robet_Paulus_award.png)
 
 ## About the Thesis
 
