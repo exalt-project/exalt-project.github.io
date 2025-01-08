@@ -56,7 +56,7 @@ tags: [Page]
 <div style="text-align: left; margin-bottom: 20px;">
     <img src="/assets/img/pics/Robert_Paulus.jpg" alt="Robert Paulus" class="team-photo">
     <p align="justify" style="margin-top: 0;">
-        <a href="https://github.com/RPGSynth" target="_blank"><strong>Robert Paulus</strong></a> is a PhD student in Statistics at Université de Namur under the supervision of Anna Kiriliouk and Francesco Ragone. His research focuses on Work Package 1, exploring attribution of European floods.
+        <a href="https://github.com/RPGSynth" target="_blank"><strong>Robert Paulus</strong></a> is a PhD student at Université de Namur under the supervision of Anna Kiriliouk and Francesco Ragone. His research aims to enhance our understanding of extreme flooding events across Europe by developing innovative and flexible univariate visualization tools to provide robust, location-specific estimates of intense flooding occurrences. He is particularly focused on studying recent catastrophic flood events, such as those in Belgium, Germany, and Spain, and exploring the influence of global warming on these extraordinary precipitation events. Robert's work also extends to examining social indicators and the societal impacts of extreme climate events, in collaboration with Sébastien Dujardin at Unamur. Ultimately, his research aims to link climate data attribution techniques with social insights to better address the impacts of extreme flooding events.
     </p>
 </div>
 
