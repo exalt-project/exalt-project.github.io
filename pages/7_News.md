@@ -127,7 +127,7 @@ tags: [Page]
         </a>
         <div class="news-date">February 5, 2025</div>
         <div class="news-description">
-            A recent article from <em>Daily Science</em> explores how science can help anticipate increasingly unpredictable climate events. The piece aligns closely with our team's research on extreme value theory and rare event modeling.
+             The EXALT project, led by Prof. Anna Kiriliouk, is featured in <em>Daily Science</em> for its groundbreaking work on modeling extreme climate events using extreme value theory. Combining statistics and climatology, the project aims to improve prediction and attribution of rare events such as floods, heatwaves, and Antarctic ice melt.
         </div>
     </div>
 </div>
