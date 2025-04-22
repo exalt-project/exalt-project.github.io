@@ -123,7 +123,7 @@ tags: [Page]
     </a>
     <div class="news-content">
         <a href="https://dailyscience.be/05/02/2025/evenements-climatiques-extremes-anticiper-linattendu/" target="_blank" class="news-title">
-            Extreme Climate Events: Anticipating the Unexpected
+            Extreme Climate Events: Anticipating the Unexpected 
         </a>
         <div class="news-date">February 5, 2025</div>
         <div class="news-description">
