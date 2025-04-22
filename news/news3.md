@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Featured Article: “Événements climatiques extrêmes : anticiper l’inattendu”
-feature-img: "assets/img/news/extreme-weather.jpg" # Replace with your own image path
-permalink: /news/news2.html
+feature-img: "assets/img/news/severe-weather-events-collage.jpg"
+permalink: /news/news3.html
 exclude: true
 ---
 
@@ -16,5 +16,5 @@ The article discusses the increasing unpredictability of extreme climate events 
 
 ---
 
-![Extreme weather event](/assets/img/news/extreme-weather.jpg)
+![Extreme weather event](/assets/img/news/severe-weather-events-collage.jpg)
 
