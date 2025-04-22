@@ -119,13 +119,13 @@ tags: [Page]
 
 <div class="news-item">
     <a href="https://dailyscience.be/05/02/2025/evenements-climatiques-extremes-anticiper-linattendu/" target="_blank">
-        <img src="/assets/img/news/severe-weather-events-collage.jpg" alt="Extreme weather event" class="news-image">
+        <img src="/assets/img/news/severe_weather.jpg" alt="Extreme weather event" class="news-image">
     </a>
     <div class="news-content">
         <a href="https://dailyscience.be/05/02/2025/evenements-climatiques-extremes-anticiper-linattendu/" target="_blank" class="news-title">
             Événements climatiques extrêmes : anticiper l’inattendu
         </a>
-        <div class="news-date">May 2, 2025</div>
+        <div class="news-date">February 5, 2025</div>
         <div class="news-description">
             A recent article from <em>Daily Science</em> explores how science can help anticipate increasingly unpredictable climate events. The piece aligns closely with our team's research on extreme value theory and rare event modeling.
         </div>
