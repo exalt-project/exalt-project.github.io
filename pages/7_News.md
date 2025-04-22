@@ -119,7 +119,7 @@ tags: [Page]
 
 <div class="news-item">
     <a href="https://dailyscience.be/05/02/2025/evenements-climatiques-extremes-anticiper-linattendu/" target="_blank">
-        <img src="/assets/img/news/extreme-weather.jpg" alt="Extreme weather event" class="news-image">
+        <img src="/assets/img/news/severe-weather-events-collage.jpg" alt="Extreme weather event" class="news-image">
     </a>
     <div class="news-content">
         <a href="https://dailyscience.be/05/02/2025/evenements-climatiques-extremes-anticiper-linattendu/" target="_blank" class="news-title">
