@@ -132,4 +132,29 @@ tags: [Page]
     </div>
 </div>
 
+<div class="news-item">
+    <a href="/assets/img/news/EVA_images.png" target="_blank">
+        <img src="/assets/img/news/EVA_images.png" alt="EVA 2025 event photo" class="news-image">
+    </a>
+    <div class="news-content">
+        <a href="#" class="news-title">EVA 2025: Talks by Professors Segers, Kiriliouk, and Ragone</a>
+        <div class="news-date">July 2025</div>
+        <div class="news-description">
+            During the EVA 2025 conference, several members of the EXALT project presented recent advances in the modeling of extremes:
+            <br><br>
+            <strong>Professor Johan Segers</strong> gave a talk titled <em>"Tail Calibration of Probabilistic Forecasts"</em>.<br>
+            <em>Abstract:</em> Probabilistic forecasts comprehensively describe the uncertainty in the unknown future outcome, making them essential for decision making and risk management. While several methods have been introduced to evaluate probabilistic forecasts, existing evaluation techniques are ill-suited to the evaluation of tail properties of such forecasts. However, these tail properties are often of particular interest to forecast users due to the severe impacts caused by extreme outcomes. In this work, we introduce a general notion of tail calibration for probabilistic forecasts, which allows forecasters to assess the reliability of their predictions for extreme outcomes. We study the relationships between tail calibration and standard notions of forecast calibration, and discuss connections to peaks-over-threshold models in extreme value theory. Diagnostic tools are introduced and applied in a case study on European precipitation forecasts.
+            <br><br>
+            <strong>Professor Anna Kiriliouk</strong> presented <em>"X-vine Models for Multivariate Extremes"</em>.<br>
+            <em>Abstract:</em> Regular vine sequences permit the organization of variables in a random vector along a sequence of trees. Vine-based dependence models have become greatly popular as a way to combine arbitrary bivariate copulas into higher-dimensional ones, offering flexibility, parsimony, and tractability. We use regular vine sequences to decompose and construct exponent measure densities associated with multivariate extreme value distributions. Our approach sheds new light on existing parametric extreme-value models and facilitates the construction of new ones, called X-vines. Computations proceed via recursive formulas in terms of bivariate model components. We develop simulation algorithms for X-vine multivariate Pareto distributions as well as methods for parameter estimation and model selection on the basis of threshold excesses. The methods are illustrated by Monte Carlo experiments and a case study on US flight delay data. Finally, we discuss how X-vines can be used for quantile regression in extreme regions of the covariate space, allowing for asymptotic independence between the response variable and the covariates.
+            <br><br>
+            <strong>Professor Francesco Ragone</strong> discussed <em>"Simulation of Extreme Events in Numerical Models with Rare Event Algorithms"</em>.<br>
+            <em>Abstract:</em> The analysis of extreme events is an important area of application of numerical models in many different scientific fields. Studying these events on a robust statistical basis with complex numerical models is however computationally challenging, as very long simulations and/or very large ensembles are necessary to sample a sufficient number of events to have acceptable levels of statistical accuracy. This problem can be tackled using rare event algorithms, numerical tools designed to reduce the computational effort required to sample rare events in numerical models. These methods typically take the form of genetic algorithms, where a set of suppression and cloning rules are applied to the members of an ensemble simulation, in order to oversample trajectories leading to the events of interest. In this talk I will show recent applications of these methods to different classes of events, focusing in particular on extremes of surface temperature and sea ice cover. Finally I will discuss the relevance of these techniques for different applications, in particular for the analysis of tipping points and the validation of early warning indicators.
+            <br><br>
+            <strong>PhD Students</strong> from the EXALT project also presented a joint poster summarizing their ongoing work. <em>[You can add the abstract or a link to the poster here if available]</em>
+        </div>
+    </div>
+</div>
+
+
 
