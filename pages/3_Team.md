@@ -19,7 +19,7 @@ tags: [Page]
 <div style="text-align: left; margin-bottom: 20px;">
     <img src="/assets/img/pics/AnnaKiriliouk.jpg" alt="Anna Kiriliouk" class="team-photo">
     <p align="justify" style="margin-top: 0;">
-        <a href="https://akiriliouk.github.io/" target="_blank"><strong>Anna Kiriliouk</strong></a> (coordinator) is an assistant professor in Statistics at the <em>Department of Mathematics</em> and the <em>Economics, Management, Communication and Politics faculty</em> of the University of Namur (UNamur). Her main research field is extreme value theory, with a focus on environmental applications, the development of statistical methodology for multivariate extremes, high-dimensional modelling, and spatial extremes. Recently, she has been particularly interested in topics related to the climate sciences, such as climate extreme event attribution and compound extremes.
+        <a href="https://akiriliouk.github.io/" target="_blank"><strong>Anna Kiriliouk</strong></a> (coordinator) is an assistant professor in Statistics at the <em>Institut de statistique, biostatistique et sciences actuarielles</em> of the Université catholique de Louvain (UCLouvain). Her main research field is extreme value theory, with a focus on environmental applications, the development of statistical methodology for multivariate extremes, high-dimensional modelling, and spatial extremes. Recently, she has been particularly interested in topics related to the climate sciences, such as climate extreme event attribution and compound extremes.
     </p>
 </div>
 
