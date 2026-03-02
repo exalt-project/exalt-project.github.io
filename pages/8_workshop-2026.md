@@ -18,17 +18,23 @@ Louvain House, Louvain-la-Neuve, Belgium
 ## Schedule
 *(Talk titles will be added as they come in.)*
 
-| Time | Speaker | Title |
-|---|---|---|
-| 09:00 – 09:15 |  | Welcome |
-| 09:15 – 10:00 |  |  |
-| 10:00 – 10:30 |  | Coffee break |
-| 10:30 – 12:00 |  |  |
-| 12:00 – 13:30 |  | Lunch |
-| 13:30 – 15:00 |  |  |
-| 15:00 – 15:30 |  | Coffee break |
-| 15:30 – 17:00 |  |  |
-| 17:00 – 17:15 |  | Closing |
+| Time          | Speaker                   | Talk title |
+|---------------|---------------------------|------------|
+| 09:00         | —                         | Welcome |
+| 09:10         | Sebastian Engelke         | *TBA* |
+| 09:50         | Hans van de Vyver         | *TBA* |
+| 10:30         | —                         | Coffee break |
+| 11:00         | Ben Youngman              | *TBA* |
+| 11:40         | Melinda Galfi             | *TBA* |
+| 12:20         | —                         | Lunch |
+| 13:50         | Alexandre Tytgat          | *TBA* |
+| 14:10         | Paolo Besana              | *TBA* |
+| 14:30         | Kamal Gasser              | *TBA* |
+| 14:50         | Robert Paulus             | *TBA* |
+| 15:10         | —                         | Coffee break |
+| 15:40         | Daniela Castro-Camilo     | *TBA* |
+| 16:20         | Bert Van Schaeybroeck     | *TBA* |
+| 17:00 – 18:30 | —                         | Wrap-up & drinks |
 
 ---
 ### Registration
