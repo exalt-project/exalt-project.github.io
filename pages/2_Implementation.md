@@ -4,7 +4,6 @@ title: Implementation
 feature-img: assets/img/pexels/gears.jpg
 excluded: true
 position: 2
-tags: [Page]
 ---
 
 # Research program
