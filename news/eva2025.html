@@ -1,38 +1,444 @@
-<div class="news-item">
-    <a href="/assets/img/news/EVA_images.png" target="_blank">
-        <img src="/assets/img/news/EVA_images.png" alt="EVA 2025 event photo" class="news-image">
-    </a>
-    <div class="news-content">
-        <a href="#" class="news-title">EVA 2025: Talks by Professors Segers, Kiriliouk, and Ragone</a>
-        <div class="news-date">July 2025</div>
-        <div class="news-description">
-            During the EVA 2025 conference, several members of the EXALT project presented recent advances in the modeling of extremes:
-            <br><br>
-            <strong>Professor Johan Segers</strong> gave a talk titled <em>"Tail Calibration of Probabilistic Forecasts"</em>.<br>
-            <em>Abstract:</em> Probabilistic forecasts comprehensively describe the uncertainty in the unknown future outcome, making them essential for decision making and risk management. While several methods have been introduced to evaluate probabilistic forecasts, existing evaluation techniques are ill-suited to the evaluation of tail properties of such forecasts. However, these tail properties are often of particular interest to forecast users due to the severe impacts caused by extreme outcomes. In this work, we introduce a general notion of tail calibration for probabilistic forecasts, which allows forecasters to assess the reliability of their predictions for extreme outcomes. We study the relationships between tail calibration and standard notions of forecast calibration, and discuss connections to peaks-over-threshold models in extreme value theory. Diagnostic tools are introduced and applied in a case study on European precipitation forecasts.
-            <br><br>
-            <strong>Professor Anna Kiriliouk</strong> presented <em>"X-vine Models for Multivariate Extremes"</em>.<br>
-            <em>Abstract:</em> Regular vine sequences permit the organization of variables in a random vector along a sequence of trees. Vine-based dependence models have become greatly popular as a way to combine arbitrary bivariate copulas into higher-dimensional ones, offering flexibility, parsimony, and tractability. We use regular vine sequences to decompose and construct exponent measure densities associated with multivariate extreme value distributions. Our approach sheds new light on existing parametric extreme-value models and facilitates the construction of new ones, called X-vines. Computations proceed via recursive formulas in terms of bivariate model components. We develop simulation algorithms for X-vine multivariate Pareto distributions as well as methods for parameter estimation and model selection on the basis of threshold excesses. The methods are illustrated by Monte Carlo experiments and a case study on US flight delay data. Finally, we discuss how X-vines can be used for quantile regression in extreme regions of the covariate space, allowing for asymptotic independence between the response variable and the covariates.
-            <br><br>
-            <strong>Professor Francesco Ragone</strong> discussed <em>"Simulation of Extreme Events in Numerical Models with Rare Event Algorithms"</em>.<br>
-            <em>Abstract:</em> The analysis of extreme events is an important area of application of numerical models in many different scientific fields. Studying these events on a robust statistical basis with complex numerical models is however computationally challenging, as very long simulations and/or very large ensembles are necessary to sample a sufficient number of events to have acceptable levels of statistical accuracy. This problem can be tackled using rare event algorithms, numerical tools designed to reduce the computational effort required to sample rare events in numerical models. These methods typically take the form of genetic algorithms, where a set of suppression and cloning rules are applied to the members of an ensemble simulation, in order to oversample trajectories leading to the events of interest. In this talk I will show recent applications of these methods to different classes of events, focusing in particular on extremes of surface temperature and sea ice cover. Finally I will discuss the relevance of these techniques for different applications, in particular for the analysis of tipping points and the validation of early warning indicators.
-            <br><br>
-            <strong>PhD Students</strong> from the EXALT project also presented each a poster summarizing their ongoing work.
-            
-            <div class="poster-row" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 20px 0;">
-                <a href="/assets/pdfs/EVA_poster_Alex.pdf" target="_blank">
-                    <img src="/assets/img/news/EVA_poster_Alex.png" alt="Poster by Alex" style="width: 200px; height: auto; border: 1px solid #ccc;">
-                </a>
-                <a href="/assets/pdfs/EVA_poster_Paolo.pdf" target="_blank">
-                    <img src="/assets/img/news/EVA_poster_Paolo.png" alt="Poster by Paolo" style="width: 200px; height: auto; border: 1px solid #ccc;">
-                </a>
-                <a href="/assets/pdfs/EVA_poster_Robert.pdf" target="_blank">
-                    <img src="/assets/img/news/EVA_poster_Robert.png" alt="Poster by Robert" style="width: 200px; height: auto; border: 1px solid #ccc;">
-                </a>
-                <a href="/assets/pdfs/EVA_poster_Kamal.pdf" target="_blank">
-                    <img src="/assets/img/news/EVA_poster_Kamal.png" alt="Poster by Kamal" style="width: 200px; height: auto; border: 1px solid #ccc;">
-                </a>
-            </div>
+---
+layout: page
+title: EVA 2025: EXALT Project Participation
+feature-img: "assets/img/news/EVA_images.png"
+permalink: /news/eva2025.html
+exclude: true
+---
+
+<style>
+    .eva-wrap {
+        --eva-border: #d8dde6;
+        --eva-bg-soft: #f7f9fc;
+        --eva-text-muted: #5f6878;
+        --eva-shadow: 0 10px 24px rgba(22, 35, 62, 0.08);
+    }
+
+    .eva-intro {
+        margin: 0 0 1.5rem;
+        padding: 1.1rem 1.2rem;
+        border-left: 4px solid #1f4f8b;
+        background: var(--eva-bg-soft);
+        border-radius: 0 8px 8px 0;
+    }
+
+    .eva-lead {
+        margin: 0;
+        color: #1f2430;
+        line-height: 1.65;
+    }
+
+    .eva-subtitle {
+        margin: 2rem 0 0.8rem;
+    }
+
+    .eva-talk-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 1rem;
+    }
+
+    .eva-talk-card {
+        border: 1px solid var(--eva-border);
+        border-radius: 10px;
+        padding: 1rem;
+        background: #fff;
+        box-shadow: 0 6px 16px rgba(14, 30, 58, 0.06);
+    }
+
+    .eva-talk-card h3 {
+        margin: 0 0 0.35rem;
+        font-size: 1.05rem;
+        line-height: 1.45;
+    }
+
+    .eva-talk-meta {
+        display: block;
+        color: var(--eva-text-muted);
+        margin-bottom: 0.7rem;
+        font-size: 0.92rem;
+    }
+
+    .eva-talk-card details {
+        margin-top: 0.6rem;
+    }
+
+    .eva-talk-card summary {
+        cursor: pointer;
+        font-weight: 600;
+    }
+
+    .eva-talk-card p {
+        margin: 0.55rem 0 0;
+        line-height: 1.6;
+    }
+
+    .eva-posters-note {
+        margin: 0 0 1rem;
+        color: var(--eva-text-muted);
+    }
+
+    .eva-poster-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        gap: 1rem;
+    }
+
+    .eva-poster-card {
+        border: 1px solid var(--eva-border);
+        border-radius: 12px;
+        overflow: hidden;
+        background: #fff;
+        box-shadow: var(--eva-shadow);
+        transition: transform 0.22s ease, box-shadow 0.22s ease;
+        cursor: pointer;
+        text-align: left;
+        padding: 0;
+        font: inherit;
+        color: inherit;
+    }
+
+    .eva-poster-card:hover,
+    .eva-poster-card:focus-visible {
+        transform: translateY(-3px);
+        box-shadow: 0 14px 28px rgba(22, 35, 62, 0.14);
+    }
+
+    .eva-poster-image-wrap {
+        background: #eef1f6;
+        aspect-ratio: 3 / 4;
+        overflow: hidden;
+    }
+
+    .eva-poster-image {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+    }
+
+    .eva-poster-body {
+        padding: 0.75rem 0.8rem 0.9rem;
+    }
+
+    .eva-poster-name {
+        margin: 0;
+        font-weight: 700;
+        font-size: 0.96rem;
+    }
+
+    .eva-poster-action {
+        display: block;
+        margin-top: 0.35rem;
+        color: #1f4f8b;
+        font-size: 0.86rem;
+        font-weight: 600;
+    }
+
+    .eva-lightbox {
+        position: fixed;
+        inset: 0;
+        z-index: 2000;
+        display: grid;
+        place-items: center;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.22s ease;
+    }
+
+    .eva-lightbox.is-open {
+        opacity: 1;
+        pointer-events: auto;
+    }
+
+    .eva-lightbox-backdrop {
+        position: absolute;
+        inset: 0;
+        background: rgba(10, 15, 24, 0.72);
+        backdrop-filter: blur(2px);
+    }
+
+    .eva-lightbox-dialog {
+        position: relative;
+        width: min(920px, 94vw);
+        max-height: 90vh;
+        background: #fff;
+        border-radius: 14px;
+        border: 1px solid #d1d8e2;
+        box-shadow: 0 22px 45px rgba(0, 0, 0, 0.28);
+        overflow: hidden;
+        display: grid;
+        grid-template-rows: auto 1fr auto;
+        transform-origin: var(--eva-origin-x, 50%) var(--eva-origin-y, 50%);
+        transform: scale(0.94) translateY(8px);
+        opacity: 0;
+        transition: transform 0.24s ease, opacity 0.24s ease;
+    }
+
+    .eva-lightbox.is-open .eva-lightbox-dialog {
+        transform: scale(1) translateY(0);
+        opacity: 1;
+    }
+
+    .eva-lightbox-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 1rem;
+        padding: 0.8rem 1rem;
+        border-bottom: 1px solid #e3e8f0;
+        background: #f7f9fc;
+    }
+
+    .eva-lightbox-title {
+        margin: 0;
+        font-size: 1rem;
+        line-height: 1.3;
+    }
+
+    .eva-close {
+        border: 1px solid #cad2df;
+        background: #fff;
+        border-radius: 8px;
+        width: 2rem;
+        height: 2rem;
+        cursor: pointer;
+        font-size: 1.15rem;
+        line-height: 1;
+    }
+
+    .eva-lightbox-body {
+        padding: 0.9rem;
+        overflow: auto;
+        background: #f3f6fb;
+    }
+
+    .eva-lightbox-preview {
+        width: 100%;
+        height: auto;
+        display: block;
+        border: 1px solid #d8dde6;
+        border-radius: 8px;
+        background: #fff;
+    }
+
+    .eva-lightbox-foot {
+        padding: 0.75rem 1rem;
+        border-top: 1px solid #e3e8f0;
+        background: #fff;
+        display: flex;
+        gap: 0.6rem;
+        justify-content: flex-end;
+        flex-wrap: wrap;
+    }
+
+    .eva-btn {
+        display: inline-block;
+        text-decoration: none;
+        border-radius: 8px;
+        border: 1px solid #cad2df;
+        padding: 0.5rem 0.85rem;
+        font-weight: 600;
+        color: #1d2a44;
+        background: #fff;
+    }
+
+    .eva-btn.primary {
+        background: #1f4f8b;
+        border-color: #1f4f8b;
+        color: #fff;
+    }
+
+    .eva-btn:hover {
+        text-decoration: none;
+    }
+
+    @media (max-width: 700px) {
+        .eva-lightbox-dialog {
+            width: 96vw;
+            max-height: 92vh;
+        }
+
+        .eva-lightbox-foot {
+            justify-content: stretch;
+        }
+
+        .eva-btn {
+            flex: 1;
+            text-align: center;
+        }
+    }
+</style>
+
+# EVA 2025: EXALT Project Participation
+
+<div class="eva-wrap">
+    <div class="eva-intro">
+        <p class="eva-lead">
+            In July 2025, EXALT researchers contributed to EVA 2025 with three invited talks and four PhD posters on probabilistic forecasting, multivariate extremes, and rare-event simulation.
+        </p>
+    </div>
+
+    <h2 class="eva-subtitle">Conference Talks</h2>
+    <div class="eva-talk-grid">
+        <article class="eva-talk-card">
+            <h3>Tail Calibration of Probabilistic Forecasts</h3>
+            <span class="eva-talk-meta">Prof. Johan Segers</span>
+            <p>
+                Focused on a general notion of tail calibration for probabilistic forecasts, with diagnostic tools and a case study on European precipitation.
+            </p>
+            <details>
+                <summary>Read abstract</summary>
+                <p>
+                    Probabilistic forecasts describe uncertainty in future outcomes and support decision making. Standard verification tools are often weak for tail behavior, although extreme outcomes usually matter most for risk. This talk introduced a general framework for tail calibration, linked it to standard calibration notions, and discussed connections with peaks-over-threshold methods in extreme value theory.
+                </p>
+            </details>
+        </article>
+
+        <article class="eva-talk-card">
+            <h3>X-vine Models for Multivariate Extremes</h3>
+            <span class="eva-talk-meta">Prof. Anna Kiriliouk</span>
+            <p>
+                Presented X-vines, a flexible construction for exponent measure densities in multivariate extremes using regular vine sequences.
+            </p>
+            <details>
+                <summary>Read abstract</summary>
+                <p>
+                    The talk showed how regular vine structures can decompose and construct high-dimensional extreme-value models through bivariate components. It covered simulation for X-vine multivariate Pareto models, parameter estimation, and model selection from threshold excesses, with applications and extensions toward quantile regression in extreme covariate regions.
+                </p>
+            </details>
+        </article>
+
+        <article class="eva-talk-card">
+            <h3>Simulation of Extreme Events with Rare Event Algorithms</h3>
+            <span class="eva-talk-meta">Prof. Francesco Ragone</span>
+            <p>
+                Discussed how rare-event algorithms improve sampling efficiency for extreme events in complex numerical models.
+            </p>
+            <details>
+                <summary>Read abstract</summary>
+                <p>
+                    Robust extreme-event analysis in numerical models often needs very long simulations or very large ensembles. Rare-event algorithms reduce this burden using cloning and suppression strategies that oversample trajectories associated with target events. The presentation highlighted applications to temperature and sea-ice extremes, with perspectives for tipping points and early-warning validation.
+                </p>
+            </details>
+        </article>
+    </div>
+
+    <h2 class="eva-subtitle">PhD Poster Session</h2>
+    <div class="eva-poster-grid" id="eva-poster-grid">
+        <button class="eva-poster-card" type="button" data-name="Alexandre Tytgat" data-image="/assets/img/news/EVA_poster_Alex.png" data-pdf="/assets/pdfs/EVA_poster_Alex.pdf">
+            <span class="eva-poster-image-wrap"><img class="eva-poster-image" src="/assets/img/news/EVA_poster_Alex.png" alt="Poster by Alexandre Tytgat"></span>
+            <span class="eva-poster-body">
+                <span class="eva-poster-name">Alexandre Tytgat</span>
+                <span class="eva-poster-action">Open poster preview</span>
+            </span>
+        </button>
+
+        <button class="eva-poster-card" type="button" data-name="Paolo Besana" data-image="/assets/img/news/EVA_poster_Paolo.png" data-pdf="/assets/pdfs/EVA_poster_Paolo.pdf">
+            <span class="eva-poster-image-wrap"><img class="eva-poster-image" src="/assets/img/news/EVA_poster_Paolo.png" alt="Poster by Paolo"></span>
+            <span class="eva-poster-body">
+                <span class="eva-poster-name">Paolo Besana</span>
+                <span class="eva-poster-action">Open poster preview</span>
+            </span>
+        </button>
+
+        <button class="eva-poster-card" type="button" data-name="Robert Paulus" data-image="/assets/img/news/EVA_poster_Robert.png" data-pdf="/assets/pdfs/EVA_poster_Robert.pdf">
+            <span class="eva-poster-image-wrap"><img class="eva-poster-image" src="/assets/img/news/EVA_poster_Robert.png" alt="Poster by Robert Paulus"></span>
+            <span class="eva-poster-body">
+                <span class="eva-poster-name">Robert Paulus</span>
+                <span class="eva-poster-action">Open poster preview</span>
+            </span>
+        </button>
+
+        <button class="eva-poster-card" type="button" data-name="Kamal Gasser" data-image="/assets/img/news/EVA_poster_Kamal.png" data-pdf="/assets/pdfs/EVA_poster_Kamal.pdf">
+            <span class="eva-poster-image-wrap"><img class="eva-poster-image" src="/assets/img/news/EVA_poster_Kamal.png" alt="Poster by Kamal"></span>
+            <span class="eva-poster-body">
+                <span class="eva-poster-name">Kamal Gasser</span>
+                <span class="eva-poster-action">Open poster preview</span>
+            </span>
+        </button>
+    </div>
+</div>
+
+<div class="eva-lightbox" id="eva-lightbox" aria-hidden="true">
+    <div class="eva-lightbox-backdrop" data-eva-close="true"></div>
+    <div class="eva-lightbox-dialog" role="dialog" aria-modal="true" aria-labelledby="eva-lightbox-title">
+        <div class="eva-lightbox-head">
+            <h3 class="eva-lightbox-title" id="eva-lightbox-title">Poster preview</h3>
+            <button class="eva-close" type="button" aria-label="Close poster preview" data-eva-close="true">x</button>
+        </div>
+        <div class="eva-lightbox-body">
+            <img class="eva-lightbox-preview" id="eva-lightbox-image" src="" alt="Poster preview">
+        </div>
+        <div class="eva-lightbox-foot">
+            <a class="eva-btn" id="eva-lightbox-open" href="#" target="_blank" rel="noopener">Open PDF</a>
+            <a class="eva-btn primary" id="eva-lightbox-download" href="#" target="_blank" rel="noopener">Download PDF</a>
         </div>
     </div>
 </div>
+
+<script>
+    (function () {
+        var grid = document.getElementById('eva-poster-grid');
+        var lightbox = document.getElementById('eva-lightbox');
+        var dialog = lightbox.querySelector('.eva-lightbox-dialog');
+        var title = document.getElementById('eva-lightbox-title');
+        var image = document.getElementById('eva-lightbox-image');
+        var openPdf = document.getElementById('eva-lightbox-open');
+        var downloadPdf = document.getElementById('eva-lightbox-download');
+        var lastFocused = null;
+
+        function openLightbox(button, clickEvent) {
+            var name = button.getAttribute('data-name') || 'Poster';
+            var posterImage = button.getAttribute('data-image');
+            var posterPdf = button.getAttribute('data-pdf');
+
+            title.textContent = name + ' - poster preview';
+            image.src = posterImage;
+            image.alt = 'Poster by ' + name;
+            openPdf.href = posterPdf;
+            downloadPdf.href = posterPdf;
+            downloadPdf.setAttribute('download', posterPdf.split('/').pop());
+
+            if (clickEvent) {
+                dialog.style.setProperty('--eva-origin-x', clickEvent.clientX + 'px');
+                dialog.style.setProperty('--eva-origin-y', clickEvent.clientY + 'px');
+            }
+
+            lastFocused = button;
+            lightbox.classList.add('is-open');
+            lightbox.setAttribute('aria-hidden', 'false');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeLightbox() {
+            lightbox.classList.remove('is-open');
+            lightbox.setAttribute('aria-hidden', 'true');
+            document.body.style.overflow = '';
+            image.src = '';
+            if (lastFocused) {
+                lastFocused.focus();
+            }
+        }
+
+        grid.addEventListener('click', function (event) {
+            var button = event.target.closest('.eva-poster-card');
+            if (!button) {
+                return;
+            }
+            openLightbox(button, event);
+        });
+
+        lightbox.addEventListener('click', function (event) {
+            if (event.target.getAttribute('data-eva-close') === 'true') {
+                closeLightbox();
+            }
+        });
+
+        document.addEventListener('keydown', function (event) {
+            if (event.key === 'Escape' && lightbox.classList.contains('is-open')) {
+                closeLightbox();
+            }
+        });
+    })();
+</script>
