@@ -9,10 +9,7 @@ permalink: /workshop-2026/
 ### Location
 **Aula Magna (Louvain House)**  
 Louvain House, Louvain-la-Neuve, Belgium  
-*(Add the full street address here — we can update it as soon as you have it.)*
-
-### Registration
-Registration is free but mandatory; you can register by sending an email to anna.kiriliouk@uclouvain.be before **May 1st**. Please note that places are limited and will be assigned on a first come first serve basis.
+*Boulevard André Oleffe – 1348 Louvain-la-Neuve*
 
 ---
 
@@ -30,3 +27,7 @@ Registration is free but mandatory; you can register by sending an email to anna
 | 15:00 – 15:30 |  | Coffee break |
 | 15:30 – 17:00 |  |  |
 | 17:00 – 17:15 |  | Closing |
+
+---
+### Registration
+Registration is free but mandatory; you can register by sending an email to anna.kiriliouk@uclouvain.be before **May 1st**. Please note that places are limited and will be assigned on a first come first serve basis.
