@@ -2,8 +2,7 @@
 layout: page
 title: Implementation
 feature-img: assets/img/pexels/gears.jpg
-excluded: true
-position: 2
+hide: true
 ---
 
 # Research program
