@@ -7,7 +7,12 @@ permalink: /workshop-2026/
 feature-img: assets/img/workshop/IPCC_image_extreme.jpg
 ---
 
-## Learning spatio-temporal climate extremes — Workshop (May 27, 2026)
+<div style="text-align:center;">
+  <h2>Learning spatio-temporal climate extremes</h2>
+  <p style="font-size:1.2em; margin-top:-0.5em;">
+    <strong>Workshop — May 27, 2026</strong>
+  </p>
+</div>
 
 ### Location
 **Aula Magna (Louvain House)**  
