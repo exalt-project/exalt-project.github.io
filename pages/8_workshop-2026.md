@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Workshop 2026"
+position: 5
+tags: [Page]
 permalink: /workshop-2026/
 ---
 
