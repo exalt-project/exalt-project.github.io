@@ -2,6 +2,7 @@
 layout: page
 title: Scientific objectives
 feature-img: "assets/img/pexels/travel.jpeg"
+position: 1
 tags: [Page]
 ---
 <p align="justify">
