@@ -1,12 +1,33 @@
 ---
 layout: page
 title: News
-feature-img: "assets/img/pexels/news.jpeg"
+feature-img: "assets/img/news/news-banner.jpg"
 position: 4
 tags: [Page]
 ---
 
 <style>
+    header#main {
+        position: relative;
+        overflow: hidden;
+        background-image: none !important;
+    }
+
+    header#main::before {
+        content: "";
+        position: absolute;
+        inset: -8px;
+        background: url('/assets/img/news/news-banner.jpg') center/cover no-repeat;
+        filter: blur(1px);
+        transform: scale(1.00);
+        z-index: 0;
+    }
+
+    header#main .title-padder {
+        position: relative;
+        z-index: 1;
+    }
+
     .news-container {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
