@@ -4,7 +4,7 @@ title: "EXALT Workshop 2026"
 position: 5
 tags: [Page]
 permalink: /workshop-2026/
-feature-img: assets/img/workshop/IPCC_image_extreme.jpg
+feature-img: assets/img/workshop/weather.jpg
 ---
 
 <div style="text-align:center;">
