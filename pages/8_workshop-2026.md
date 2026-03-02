@@ -4,6 +4,7 @@ title: "EXALT Workshop 2026"
 position: 5
 tags: [Page]
 permalink: /workshop-2026/
+feature-img: assets/img/workshop/IPCC_image_extreme.jpg
 ---
 
 ## Learning spatio-temporal climate extremes — Workshop (May 27, 2026)
