@@ -10,7 +10,7 @@ feature-img: assets/img/workshop/weather.jpg
 <div style="text-align:center;">
   <h2>Learning spatio-temporal climate extremes</h2>
   <p style="font-size:1.2em; margin-top:-0.5em;">
-    <strong>Workshop — May 27, 2026</strong>
+    <strong>Workshop – May 27, 2026</strong>
   </p>
 </div>
 
@@ -22,25 +22,27 @@ Louvain House, Louvain-la-Neuve, Belgium
 ---
 
 ## Schedule
+
 *(Talk titles will be added as they come in.)*
 
-| Time          | Speaker                   | Talk title |
-|---------------|---------------------------|------------|
-| 09:00         | —                         | Welcome |
-| 09:10         | Sebastian Engelke         | *TBA* |
-| 09:50         | Hans van de Vyver         | *TBA* |
-| 10:30         | —                         | Coffee break |
-| 11:00         | Ben Youngman              | *TBA* |
-| 11:40         | Melinda Galfi             | *TBA* |
-| 12:20         | —                         | Lunch |
-| 13:50         | Alexandre Tytgat          | *TBA* |
-| 14:10         | Paolo Besana              | *TBA* |
-| 14:30         | Kamal Gasser              | *TBA* |
-| 14:50         | Robert Paulus             | *TBA* |
-| 15:10         | —                         | Coffee break |
-| 15:40         | Daniela Castro-Camilo     | *TBA* |
-| 16:20         | Bert Van Schaeybroeck     | *TBA* |
-| 17:00 – 18:30 | —                         | Wrap-up & drinks |
+| Time          | Speaker               | Affiliation                               | Talk title       |
+| ------------- | --------------------- | ----------------------------------------- | ---------------- |
+| 09:00         | -                     | -                                         | Welcome          |
+| 09:10         | Sebastian Engelke     | University of Geneva                      | *TBA*            |
+| 09:50         | Hans Van de Vyver     | Royal Meteorological Institute of Belgium | *TBA*            |
+| 10:30         | -                     | -                                         | Coffee break     |
+| 11:00         | Ben Youngman          | University of Exeter                      | *TBA*            |
+| 11:40         | Melinda Galfi         | VU Amsterdam                              | *TBA*            |
+| 12:20         | -                     | -                                         | Lunch            |
+| 13:50         | Alexandre Tytgat      | UCLouvain                                 | *TBA*            |
+| 14:10         | Paolo Besana          | UCLouvain                                 | *TBA*            |
+| 14:30         | Kamal Gasser          | UCLouvain                                 | *TBA*            |
+| 14:50         | Robert Paulus         | UCLouvain                                 | *TBA*            |
+| 15:10         | -                     | -                                         | Coffee break     |
+| 15:40         | Daniela Castro-Camilo | University of Glasgow                     | *TBA*            |
+| 16:20         | Alexis Boulin         | Ruhr University Bochum                    | *TBA*            |
+| 17:00 - 18:30 | -                     | -                                         | Wrap-up & drinks |
+
 
 ---
 ### Registration
