@@ -2,7 +2,7 @@
 layout: page
 title: Team
 feature-img: "assets/img/pexels/book-glass.jpeg"
-position: 3
+position: 2
 tags: [Page]
 ---
 <style>

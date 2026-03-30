@@ -2,7 +2,7 @@
 layout: page
 title: News
 feature-img: "assets/img/news/news-banner.jpg"
-position: 4
+position: 3
 tags: [Page]
 ---
 
@@ -87,6 +87,19 @@ tags: [Page]
 # News
 
 <div class="news-container">
+    <div class="news-item">
+        <a href="/news/workshop-2026.html">
+            <img src="/assets/img/workshop/WorkshopMain.png" alt="Workshop 2026 poster" class="news-image">
+        </a>
+        <div class="news-content">
+            <a href="/news/workshop-2026.html" class="news-title">EXALT Workshop 2026 Announced</a>
+            <div class="news-date">March 2026</div>
+            <div class="news-description">
+                We are pleased to announce the workshop "Learning Spatio-Temporal Climate Extremes" on May 27, 2026 at Universite catholique de Louvain. Click to see the invited speakers, confirmed titles, and registration details.
+            </div>
+        </div>
+    </div>
+
     <div class="news-item">
         <a href="/news/eva2025.html">
             <img src="/assets/img/news/EVA_images.png" alt="EVA 2025 event photo" class="news-image">
