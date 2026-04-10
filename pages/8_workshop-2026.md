@@ -215,7 +215,6 @@ permalink: /workshop-2026/
                 <tr>
                     <th>Time</th>
                     <th>Speaker</th>
-                    <th>Affiliation</th>
                     <th>Talk title</th>
                 </tr>
             </thead>
@@ -223,90 +222,75 @@ permalink: /workshop-2026/
                 <tr>
                     <td>09:00</td>
                     <td>-</td>
-                    <td>-</td>
                     <td>Welcome</td>
                 </tr>
                 <tr>
                     <td>09:10</td>
                     <td>Sebastian Engelke (University of Geneva)</td>
-                    <td>University of Geneva</td>
                     <td><em>TBA</em></td>
                 </tr>
                 <tr>
                     <td>09:50</td>
                     <td>Hans Van de Vyver (Royal Meteorological Institute of Belgium)</td>
-                    <td>Royal Meteorological Institute of Belgium</td>
                     <td>Beyond the Observed: A Stochastic Simulation Approach for Impact-Based Storylines</td>
                 </tr>
                 <tr>
                     <td>10:30</td>
-                    <td>-</td>
                     <td>-</td>
                     <td>Coffee break</td>
                 </tr>
                 <tr>
                     <td>11:00</td>
                     <td>Ben Youngman (University of Exeter)</td>
-                    <td>University of Exeter</td>
                     <td><em>TBA</em></td>
                 </tr>
                 <tr>
                     <td>11:40</td>
                     <td>Melinda Galfi (VU Amsterdam)</td>
-                    <td>VU Amsterdam</td>
                     <td>A Large-Deviation View on Persistent Extremes</td>
                 </tr>
                 <tr>
                     <td>12:20</td>
                     <td>-</td>
-                    <td>-</td>
                     <td>Lunch</td>
                 </tr>
                 <tr>
                     <td>13:50</td>
-                    <td>Alexandre Tytgat</td>
-                    <td>UCLouvain</td>
+                    <td>Alexandre Tytgat (UC Louvain)</td>
                     <td><em>Detecting Regional Changes in Antarctic Sea Ice Extent Annual Minima</em></td>
                 </tr>
                 <tr>
                     <td>14:10</td>
-                    <td>Paolo Besana</td>
-                    <td>UCLouvain</td>
-                    <td><em>TBA</em></td>
+                    <td>Paolo Besana (UC Louvain)</td>
+                    <td><em>Bayesian POT Analysis of Drought Extremes: Quantifying the Impact of Drought Index Definition</em></td>
                 </tr>
                 <tr>
                     <td>14:30</td>
-                    <td>Kamal Gasser</td>
-                    <td>UCLouvain</td>
-                    <td><em>TBA</em></td>
+                    <td>Kamal Gasser (UC Louvain)</td>
+                    <td><em>A spatio-temporal statistical framework for heatwave attribution under climate change</em></td>
                 </tr>
                 <tr>
                     <td>14:50</td>
-                    <td>Robert Paulus</td>
-                    <td>UCLouvain</td>
-                    <td><em>TBA</em></td>
+                    <td>Robert Paulus (UC Louvain)</td>
+                    <td><em>Adaptive regionalization for extreme precipitation: A neural network-weighted independence likelihood approach</em></td>
                 </tr>
                 <tr>
                     <td>15:10</td>
-                    <td>-</td>
                     <td>-</td>
                     <td>Coffee break</td>
                 </tr>
                 <tr>
                     <td>15:40</td>
                     <td>Daniela Castro-Camilo (University of Glasgow)</td>
-                    <td>University of Glasgow</td>
-                    <td><em>TBA</em></td>
+                    <td>Attributing changes in extreme events: a causal approach to the tails</td>
                 </tr>
                 <tr>
                     <td>16:20</td>
                     <td>Alexis Boulin (Ruhr University Bochum)</td>
-                    <td>Ruhr University Bochum</td>
-                    <td><em>TBA</em></td>
+                    <td>Linear Factor Models for Tail Dependence in High Dimensions with Applications to Wind Turbine Cut-In Risk</td>
                 </tr>
                 <tr>
                     <td>17:00 - 18:30</td>
-                    <td>-</td>
                     <td>-</td>
                     <td>Wrap-up &amp; drinks</td>
                 </tr>
