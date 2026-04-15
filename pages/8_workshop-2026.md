@@ -167,7 +167,7 @@ permalink: /workshop-2026/
         <p class="workshop-kicker">Workshop - May 27, 2026</p>
         <h2 class="workshop-title">Learning Spatio-Temporal Climate Extremes</h2>
         <p class="workshop-subtitle">
-            A one-day workshop at Universite catholique de Louvain bringing together researchers from statistics and climate to discuss recent methodological advances and open challenges in modelling spatial and temporal patterns of climate extremes.
+            A one-day workshop at UCLouvain bringing together researchers from statistics and climate to discuss recent methodological advances and open challenges in modelling spatial and temporal patterns of climate extremes.
         </p>
         <figure class="workshop-poster">
             <img src="/assets/img/workshop/WorkshopMain.png" alt="Workshop poster for Learning Spatio-Temporal Climate Extremes">
@@ -188,14 +188,14 @@ permalink: /workshop-2026/
                 </li>
                 <li>
                     <strong>Registration</strong>
-                    Free but mandatory. Register by emailing anna.kiriliouk@uclouvain.be before <strong>May 1st</strong>.
+                    Free but mandatory by emailing anna.kiriliouk@uclouvain.be before <strong>May 15.</strong>
                 </li>
             </ul>
         </div>
 
         <div class="workshop-announcement">
             <p>
-                We are pleased to announce the workshop <strong>"Learning Spatio-Temporal Climate Extremes"</strong> on May 27, 2026 at Universite catholique de Louvain.
+                We are pleased to announce the workshop <strong>"Learning Spatio-Temporal Climate Extremes"</strong> on May 27, 2026 at UCLouvain.
             </p>
             <p>
                 The workshop brings together researchers from statistics and climate to discuss recent methodological advances and open challenges in modelling spatial and temporal patterns of climate extremes.
@@ -207,7 +207,6 @@ permalink: /workshop-2026/
     </section>
 
     <h2>Schedule</h2>
-    <p class="workshop-note">Talk titles will be added as they come in. Titles currently confirmed by speakers are included below.</p>
 
     <div class="workshop-table-wrap">
         <table>
@@ -227,12 +226,12 @@ permalink: /workshop-2026/
                 <tr>
                     <td>09:10</td>
                     <td>Sebastian Engelke (University of Geneva)</td>
-                    <td><em>TBA</em></td>
+                    <td>AI Weather forecasting: assessing extrapolation and physical consistency</td>
                 </tr>
                 <tr>
                     <td>09:50</td>
                     <td>Hans Van de Vyver (Royal Meteorological Institute of Belgium)</td>
-                    <td>Beyond the Observed: A Stochastic Simulation Approach for Impact-Based Storylines</td>
+                    <td>Beyond the observed: a stochastic simulation approach for impact-based storylines</td>
                 </tr>
                 <tr>
                     <td>10:30</td>
@@ -247,7 +246,7 @@ permalink: /workshop-2026/
                 <tr>
                     <td>11:40</td>
                     <td>Melinda Galfi (VU Amsterdam)</td>
-                    <td>A Large-Deviation View on Persistent Extremes</td>
+                    <td>A large-deviation view on persistent extremes</td>
                 </tr>
                 <tr>
                     <td>12:20</td>
@@ -256,23 +255,23 @@ permalink: /workshop-2026/
                 </tr>
                 <tr>
                     <td>13:50</td>
-                    <td>Alexandre Tytgat (UC Louvain)</td>
-                    <td><em>Detecting Regional Changes in Antarctic Sea Ice Extent Annual Minima</em></td>
+                    <td>Alexandre Tytgat (UCLouvain)</td>
+                    <td>Detecting regional changes in Antarctic sea ice extent annual minima</td>
                 </tr>
                 <tr>
                     <td>14:10</td>
-                    <td>Paolo Besana (UC Louvain)</td>
-                    <td><em>Bayesian POT Analysis of Drought Extremes: Quantifying the Impact of Drought Index Definition</em></td>
+                    <td>Paolo Besana (UCLouvain)</td>
+                    <td>Bayesian POT analysis of drought extremes: quantifying the impact of drought index definition</td>
                 </tr>
                 <tr>
                     <td>14:30</td>
-                    <td>Kamal Gasser (UC Louvain)</td>
-                    <td><em>A spatio-temporal statistical framework for heatwave attribution under climate change</em></td>
+                    <td>Kamal Gasser (UCLouvain)</td>
+                    <td>A spatio-temporal statistical framework for heatwave attribution under climate change</td>
                 </tr>
                 <tr>
                     <td>14:50</td>
-                    <td>Robert Paulus (UC Louvain)</td>
-                    <td><em>Adaptive regionalization for extreme precipitation: A neural network-weighted independence likelihood approach</em></td>
+                    <td>Robert Paulus (UCLouvain)</td>
+                    <td>Adaptive regionalization for extreme precipitation: a neural network-weighted independence likelihood approach</td>
                 </tr>
                 <tr>
                     <td>15:10</td>
@@ -287,7 +286,7 @@ permalink: /workshop-2026/
                 <tr>
                     <td>16:20</td>
                     <td>Alexis Boulin (Ruhr University Bochum)</td>
-                    <td>Linear Factor Models for Tail Dependence in High Dimensions with Applications to Wind Turbine Cut-In Risk</td>
+                    <td>Linear factor models for tail dependence in high dimensions with applications to wind turbine cut-in risk</td>
                 </tr>
                 <tr>
                     <td>17:00 - 18:30</td>

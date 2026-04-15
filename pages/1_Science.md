@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scientific objectives
-feature-img: "assets/img/header/drought.png"
+feature-img: "assets/img/header/waves2.png"
 position: 1
 tags: [Page]
 ---
