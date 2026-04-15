@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team
-feature-img: "assets/img/header/drought.png"
+feature-img: "assets/img/news/news-banner.jpg"
 position: 2
 tags: [Page]
 ---
