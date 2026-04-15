@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scientific objectives
-feature-img: "assets/img/pexels/travel.jpeg"
+feature-img: "assets/img/header/drought.png"
 position: 1
 tags: [Page]
 ---
@@ -15,7 +15,7 @@ tangibly affect our societies.
 </p>
 <p align="justify">
 Characterizing such events and quantifying their occurrence probabilities are significant challenges to be
-addressed in order to equip society with resilient adaptation solutions. <i> Attribution science </i> aims at evaluating
+addressed in order to equip society with resilient adaptation solutions. <em>Attribution science</em> aims at evaluating
 the relative contributions of multiple causal factors or drivers to an extreme weather event (e.g., an individual
 heat wave) or a climate feature (e.g., a long-term trend in temperature) with an assignment of statistical
 confidence.
@@ -34,10 +34,11 @@ a significant challenge is to model two or more random variables of interest sim
 dependence between their extremes (the tail dependence) into account. 
 </p>
 <p align="justify">
-**The overall objective of EXALT is to introduce a novel comprehensive framework for extreme event attribution
-and to apply it to the most influential events in the mid-high latitudes**, namely **heatwaves and
+The overall objective of EXALT is to introduce a novel comprehensive framework for extreme event attribution
+and to apply it to the most influential events in the mid-high latitudes, namely heatwaves and
 compound drought-heat events over Europe, floods in southern and northern Europe, and sea ice extent over
-the Antarctic**. 
+the Antarctic. 
 </p>
-<img src="/assets/img/Compounds.jpg" height = "400px">
+<img src="/assets/img/Compounds.jpg" 
+     style="max-height: 400px; width: auto; margin-top: 30px;">
 *Climate change effects on compound effects. From [Zscheischler et al., 2020](https://www.nature.com/articles/s43017-020-0060-z).*
