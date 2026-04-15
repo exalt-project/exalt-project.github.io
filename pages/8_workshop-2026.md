@@ -188,7 +188,7 @@ permalink: /workshop-2026/
                 </li>
                 <li>
                     <strong>Registration</strong>
-                    Free but mandatory by emailing anna.kiriliouk@uclouvain.be before <strong>May 15.</strong>
+                    Free but mandatory; contact anna.kiriliouk@uclouvain.be before May 15.
                 </li>
             </ul>
         </div>
@@ -226,7 +226,7 @@ permalink: /workshop-2026/
                 <tr>
                     <td>09:10</td>
                     <td>Sebastian Engelke (University of Geneva)</td>
-                    <td>AI Weather forecasting: assessing extrapolation and physical consistency</td>
+                    <td>AI weather forecasting: assessing extrapolation and physical consistency</td>
                 </tr>
                 <tr>
                     <td>09:50</td>
