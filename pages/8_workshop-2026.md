@@ -187,8 +187,8 @@ permalink: /workshop-2026/
                     Boulevard Andre Oleffe - 1348 Louvain-la-Neuve
                 </li>
                 <li>
-                    <strong>Registration</strong>
-                    Free but mandatory; contact anna.kiriliouk@uclouvain.be before May 15.
+                    <strong>Contact</strong>
+                    anna.kiriliouk@uclouvain.be
                 </li>
             </ul>
         </div>
@@ -241,7 +241,7 @@ permalink: /workshop-2026/
                 <tr>
                     <td>11:00</td>
                     <td>Ben Youngman (University of Exeter)</td>
-                    <td><em>TBA</em></td>
+                    <td>Extreme value models for environmental data</td>
                 </tr>
                 <tr>
                     <td>11:40</td>
