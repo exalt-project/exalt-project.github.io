@@ -180,11 +180,11 @@ permalink: /workshop-2026/
             <ul class="workshop-meta">
                 <li>
                     <strong>Location</strong>
-                    Aula Magna (Louvain House), Louvain-la-Neuve, Belgium
+                    Aula Magna (Foyer Royal), Louvain-la-Neuve
                 </li>
                 <li>
                     <strong>Address</strong>
-                    Boulevard Andre Oleffe - 1348 Louvain-la-Neuve
+                    Place Raymond Lemaire 1, 1348 Louvain‑la‑Neuve
                 </li>
                 <li>
                     <strong>Contact</strong>
@@ -202,6 +202,9 @@ permalink: /workshop-2026/
             </p>
             <p>
                 Invited talks will be given by Sebastian Engelke (University of Geneva), Hans Van de Vyver (Royal Meteorological Institute of Belgium), Ben Youngman (University of Exeter), Melinda Galfi (VU Amsterdam), Daniela Castro-Camilo (University of Glasgow), and Alexis Boulin (Ruhr University Bochum).
+            </p>
+             <p>
+                The full program, including abstracts, can be found <a href="/assets/pdfs/bookofabstracts.pdf" target="_blank">here</a>.
             </p>
         </div>
     </section>
