@@ -204,7 +204,7 @@ permalink: /workshop-2026/
                 Invited talks will be given by Sebastian Engelke (University of Geneva), Hans Van de Vyver (Royal Meteorological Institute of Belgium), Ben Youngman (University of Exeter), Melinda Galfi (VU Amsterdam), Daniela Castro-Camilo (University of Glasgow), and Alexis Boulin (Ruhr University Bochum).
             </p>
              <p>
-                The full program, including abstracts, can be found a
+                The full program, including abstracts, can be found <a href="/assets/pdfs/bookofabstracts.pdf" target="_blank">here</a>. Slides are available from the schedule below.
             </p>
         </div>
     </section>
