@@ -204,7 +204,7 @@ permalink: /workshop-2026/
                 Invited talks will be given by Sebastian Engelke (University of Geneva), Hans Van de Vyver (Royal Meteorological Institute of Belgium), Ben Youngman (University of Exeter), Melinda Galfi (VU Amsterdam), Daniela Castro-Camilo (University of Glasgow), and Alexis Boulin (Ruhr University Bochum).
             </p>
              <p>
-                The full program, including abstracts, can be found <a href="/assets/pdfs/bookofabstracts.pdf" target="_blank">here</a>.
+                The full program, including abstracts, can be found a
             </p>
         </div>
     </section>
@@ -234,7 +234,7 @@ permalink: /workshop-2026/
                 <tr>
                     <td>09:50</td>
                     <td>Hans Van de Vyver (Royal Meteorological Institute of Belgium)</td>
-                    <td>Beyond the observed: a stochastic simulation approach for impact-based storylines</td>
+                    <td><a href="/assets/pdfs/vandevyver.pdf" target="_blank">Beyond the observed: a stochastic simulation approach for impact-based storylines</a></td>
                 </tr>
                 <tr>
                     <td>10:30</td>
@@ -244,12 +244,12 @@ permalink: /workshop-2026/
                 <tr>
                     <td>11:00</td>
                     <td>Ben Youngman (University of Exeter)</td>
-                    <td>Extreme value models for environmental data</td>
+                    <td><a href="/assets/pdfs/youngman.pdf" target="_blank">Extreme value models for environmental data</a></td>
                 </tr>
                 <tr>
                     <td>11:40</td>
                     <td>Melinda Galfi (VU Amsterdam)</td>
-                    <td>A large-deviation view on persistent extremes</td>
+                    <td><a href="/assets/pdfs/galfi.pdf" target="_blank">A large-deviation view on persistent extremes</a></td>
                 </tr>
                 <tr>
                     <td>12:20</td>
@@ -259,22 +259,22 @@ permalink: /workshop-2026/
                 <tr>
                     <td>13:50</td>
                     <td>Alexandre Tytgat (UCLouvain)</td>
-                    <td>Detecting regional changes in Antarctic sea ice extent annual minima</td>
+                    <td><a href="/assets/pdfs/tytgat.pdf" target="_blank">Detecting regional changes in Antarctic sea ice extent annual minima</a></td>
                 </tr>
                 <tr>
                     <td>14:10</td>
                     <td>Paolo Besana (UCLouvain)</td>
-                    <td>Bayesian POT analysis of drought extremes: quantifying the impact of drought index definition</td>
+                   <td><a href="/assets/pdfs/besana.pdf" target="_blank">Bayesian POT analysis of drought extremes: quantifying the impact of drought index definition</a></td>
                 </tr>
                 <tr>
                     <td>14:30</td>
                     <td>Kamal Gasser (UCLouvain)</td>
-                    <td>A spatio-temporal statistical framework for heatwave attribution under climate change</td>
+                    <td><a href="/assets/pdfs/gasser.pdf" target="_blank">A spatio-temporal statistical framework for heatwave attribution under climate change</a></td>
                 </tr>
                 <tr>
                     <td>14:50</td>
                     <td>Robert Paulus (UCLouvain)</td>
-                    <td>Adaptive regionalization for extreme precipitation: a neural network-weighted independence likelihood approach</td>
+                    <td><a href="/assets/pdfs/paulus.pdf" target="_blank">Adaptive regionalization for extreme precipitation: a neural network-weighted independence likelihood approach</a></td>
                 </tr>
                 <tr>
                     <td>15:10</td>
@@ -284,12 +284,12 @@ permalink: /workshop-2026/
                 <tr>
                     <td>15:40</td>
                     <td>Daniela Castro-Camilo (University of Glasgow)</td>
-                    <td>Attributing changes in extreme events: a causal approach to the tails</td>
+                    <td><a href="/assets/pdfs/castro.pdf" target="_blank">Attributing changes in extreme events: a causal approach to the tails</a></td>
                 </tr>
                 <tr>
                     <td>16:20</td>
                     <td>Alexis Boulin (Ruhr University Bochum)</td>
-                    <td>Linear factor models for tail dependence in high dimensions with applications to wind turbine cut-in risk</td>
+                    <td><a href="/assets/pdfs/boulin.pdf" target="_blank">Linear factor models for tail dependence in high dimensions with applications to wind turbine cut-in risk</a></td>
                 </tr>
                 <tr>
                     <td>17:00 - 18:30</td>
