@@ -229,7 +229,7 @@ permalink: /workshop-2026/
                 <tr>
                     <td>09:10</td>
                     <td>Sebastian Engelke (University of Geneva)</td>
-                    <td>AI weather forecasting: assessing extrapolation and physical consistency</td>
+                    <td><a href="/assets/pdfs/engelke.pdf" target="_blank">AI weather forecasting: assessing extrapolation and physical consistency</a></td>
                 </tr>
                 <tr>
                     <td>09:50</td>
