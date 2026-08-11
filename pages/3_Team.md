@@ -53,12 +53,6 @@ tags: [Page]
 
 # Researchers
 
-<div style="text-align: left; margin-bottom: 20px;">
-    <img src="/assets/img/pics/Robert_Paulus.jpg" alt="Robert Paulus" class="team-photo">
-    <p align="justify" style="margin-top: 0;">
-        <a href="https://github.com/RPGSynth" target="_blank"><strong>Robert Paulus</strong></a> is a PhD student at UCLouvain and UNamur under the supervision of Anna Kiriliouk and Francesco Ragone. His research aims to enhance our understanding of extreme flooding events across Europe by developing innovative and flexible univariate visualization tools to provide robust, location-specific estimates of intense flooding occurrences. He is particularly focused on studying recent catastrophic flood events, such as those in Belgium, Germany, and Spain, and exploring the influence of global warming on these extraordinary precipitation events. 
-    </p>
-</div>
 
 <div style="text-align: left; margin-bottom: 20px;">
     <img src="/assets/img/pics/Paolo.png" alt="Paolo Besana" class="team-photo">
@@ -70,7 +64,7 @@ tags: [Page]
 <div style="text-align: left; margin-bottom: 20px;">
     <img src="/assets/img/pics/Kamal.jpg" alt="Kamal Gasser" class="team-photo">
     <p align="justify" style="margin-top: 0;">
-        <a href="https://kamalgasser.github.io/" target="_blank"><strong>Kamal Gasser</strong></a> is a PhD student at UCLouvain under the supervision of Johan Sergers and Francesco Ragone. His research focuses on exploring compound event attribution and spatial extremes. By developing advanced statistical methodologies, his work aims to deepen the understanding of complex climate phenomena and their far-reaching impacts.
+        <a href="https://kamalgasser.github.io/" target="_blank"><strong>Kamal Gasser</strong></a> is a PhD student at UCLouvain under the supervision of Johan Segers and Francesco Ragone. His research focuses on exploring compound event attribution and spatial extremes. By developing advanced statistical methodologies, his work aims to deepen the understanding of complex climate phenomena and their far-reaching impacts.
     </p>
 </div>
 
