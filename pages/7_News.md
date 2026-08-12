@@ -42,10 +42,10 @@ tags: [Page]
        class="news-title">
         EVAN 2026 Conference
      </a>
-        <div class="news-date">May 2026</div>
+        <div class="news-date">July 2026</div>
         <div class="news-description">
             Several EXALT team members presented talks at the
-            7th International Conference on Extreme Value Analysis and Applications to Natural Hazards (EVAN 20256) in Delft, the Netherlands.
+            7th International Conference on Extreme Value Analysis and Applications to Natural Hazards (EVAN 2026) in Delft, the Netherlands.
         </div>
     </div>
 
