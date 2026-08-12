@@ -36,63 +36,89 @@ tags: [Page]
 <div class="news-list">
 
     <div class="news-item">
-        <a href="/news/workshop-2026.html" class="news-title">
-            EXALT Workshop 2026
-        </a>
-        <div class="news-date">March 2026</div>
+     <a href="https://evan2026.weebly.com/"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="news-title">
+        EVAN 2026 Conference
+     </a>
+        <div class="news-date">May 2026</div>
         <div class="news-description">
-            We are pleased to announce the workshop <em>Learning Spatio-Temporal Climate Extremes</em>,
-            taking place on May 27, 2026 at UCLouvain. See the invited speakers,
-            confirmed titles, and registration details.
+            Several EXALT team members presented talks at the
+            7th International Conference on Extreme Value Analysis and Applications to Natural Hazards (EVAN 20256) in Delft, the Netherlands.
         </div>
     </div>
 
     <div class="news-item">
-        <a href="/news/eva2025.html" class="news-title">
-            EVA 2025: EXALT participation
-        </a>
+     <a href="https://exalt-project.github.io/workshop-2026/"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="news-title">
+        EXALT Workshop 2026
+     </a>
+        <div class="news-date">May 2026</div>
+        <div class="news-description">
+            We organized our first workshop, <em>Learning Spatio-Temporal Climate Extremes</em>,
+            which took place on May 27, 2026 at UCLouvain. 
+        </div>
+    </div>
+    
+    <div class="news-item">
+     <a href="https://arxiv.org/abs/2604.26359"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="news-title">
+        Gasser, Segers and Ragone (2026)
+     </a>
+        <div class="news-date">May 2026</div>
+        <div class="news-description">
+            New preprint available on arXiv, <em>A spatio-temporal statistical framework for heatwave attribution under climate change</em>,
+            co-authored by Kamal Gasser, Johan Segers and Francesco Ragone.
+        </div>
+    </div>
+
+    <div class="news-item">
+     <a href="https://eva2025.unc.edu/"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="news-title">
+        EVA 2025 Conference
+     </a>
         <div class="news-date">July 2025</div>
         <div class="news-description">
-            Several EXALT team members presented talks and a poster at the
-            14th International Conference on Extreme Value Analysis (EVA 2025).
+            Several EXALT team members presented talks and posters at the
+            14th International Conference on Extreme Value Analysis (EVA 2025) in Chapel Hill, USA.
         </div>
     </div>
 
     <div class="news-item">
-        <a href="https://dailyscience.be/05/02/2025/evenements-climatiques-extremes-anticiper-linattendu/"
-           target="_blank"
-           class="news-title">
-            Extreme Climate Events: Anticipating the Unexpected
-        </a>
-        <div class="news-date">February 5, 2025</div>
+     <a href="https://dailyscience.be/05/02/2025/evenements-climatiques-extremes-anticiper-linattendu/"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="news-title">
+        Extreme climate events: anticipating the unexpected
+     </a>
+        <div class="news-date">February 2025</div>
         <div class="news-description">
-            The EXALT project is featured in <em>Daily Science</em> for its interdisciplinary
+            The EXALT project is featured in <em>Daily Science</em> for its planned interdisciplinary
             work on improving prediction and attribution of rare events such as floods,
             heatwaves, and Antarctic sea ice decline.
         </div>
     </div>
 
     <div class="news-item">
-        <a href="/news/news1.html" class="news-title">
-            VALPRED Workshop in Aussois
-        </a>
-        <div class="news-date">December 16, 2024</div>
+      <a href="https://wintenberger.fr/VALPRED.html"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="news-title">
+        VALPRED Workshop in Aussois
+    </a>
+        <div class="news-date">December 2024</div>
         <div class="news-description">
-            Professor Segers and four PhD students attended the VALPRED workshop
-            in Aussois, focused on forecasting validation and related topics.
-        </div>
-    </div>
-
-    <div class="news-item">
-        <a href="/news/news2.html" class="news-title">
-            Robert Paulus Wins GeoSpatial Award 2024
-        </a>
-        <div class="news-date">December 12, 2024</div>
-        <div class="news-description">
-            Robert Paulus received the GeoSpatial Award 2024 for his master thesis
-            on spatio-temporal modeling and crisis sensibility analysis using social media data.
+            Several EXALT team members attended the VALPRED workshop
+            in Aussois, France, where Johan Segers gave a mini-course on multivariate generalized Pareto distributions.
         </div>
     </div>
 
 </div>
-```
+
